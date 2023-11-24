@@ -8,5 +8,5 @@ I'm a **frontend developer** and a **UX/UI designer**.
 <br>![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visualstudiocode&color=3c9af0&logoColor=3c9af0&labelColor=3c3c3c) ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&color=ee4933&labelColor=3c3c3c) ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&color=000&labelColor=3c3c3c) 
 
 ### 🤝 Connect with me!
-<img height="16" src="https://github.com/guillemgsalvat/guillemgsalvat/assets/151743073/e3196da2-bba7-4cb4-95d5-caee7bae37c6" /> [in/guillemgsalvat](https://www.linkedin.com/in/guillemgsalvat)<br>
-<img height="16" src="https://github.com/guillemgsalvat/guillemgsalvat/assets/151743073/3a869710-bf28-43d5-8701-9ea06590a0f2" /> [guillemgsalvat.com](https://guillemgsalvat.com)
+<img align="center" height="20" src="https://github.com/guillemgsalvat/guillemgsalvat/assets/151743073/e3196da2-bba7-4cb4-95d5-caee7bae37c6" /> [in/guillemgsalvat](https://www.linkedin.com/in/guillemgsalvat)<br>
+<img align="center" height="20" src="https://github.com/guillemgsalvat/guillemgsalvat/assets/151743073/3a869710-bf28-43d5-8701-9ea06590a0f2" /> [guillemgsalvat.com](https://guillemgsalvat.com)
